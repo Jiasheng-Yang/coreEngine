@@ -1,0 +1,1 @@
+INSERT INTO `ORG` VALUES (1, 'engineering', 'It is in the Engineering Building', 'CEIAS is the College of Engineering, Informatics, and Applied Sciences is NAU’s newest college.', 'Its dean is Dr. Andy Wang', 'You can take the Mountain 10 to there.');
